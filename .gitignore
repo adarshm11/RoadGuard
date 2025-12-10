@@ -1,2 +1,4 @@
 .DS_Store
 roadguardenv
+__pycache__/
+*.pth
